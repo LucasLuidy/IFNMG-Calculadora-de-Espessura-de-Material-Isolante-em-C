@@ -35,4 +35,6 @@ Espessura do material isolante: 3.81 mm
 ```
 
 ### Limites do cálculo
-O programa aplica a fórmula diretamente, sem validar as entradas. Umidade relativa de 100% ou coeficientes de convecção iguais a zero podem causar divisão por zero. Depend
+O programa aplica a fórmula diretamente, sem validar as entradas. Umidade relativa de 100% ou coeficientes de convecção iguais a zero podem causar divisão por zero. Dependendo dos valores informados, a fórmula também pode produzir uma espessura negativa.
+
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&language=C)
